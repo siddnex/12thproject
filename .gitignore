@@ -1,0 +1,13 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Secrets & logs
+.env
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
